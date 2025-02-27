@@ -1,0 +1,9 @@
+{
+  "name": "security-dashboard",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-chartjs-2": "^4.0.0",
+    "chart.js": "^3.7.1"
+  }
+}
